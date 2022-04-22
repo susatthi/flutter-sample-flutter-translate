@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "sample": {
+    "title": "Flutter Sample Localizations",
+    "message": "[{title}] You have pushed the button this many times: {count} {suffix}",
+    "@message": "This is comments"
+  }
+}
